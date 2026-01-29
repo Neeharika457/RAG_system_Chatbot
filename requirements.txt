@@ -1,1 +1,21 @@
+# Web Scraping
+langchain-community
 
+# Document Processing
+langchain-text-splitters
+
+# Vector Database
+langchain-chroma
+chromadb
+
+# AI Models & Embeddings
+langchain-groq
+langchain-huggingface
+sentence-transformers
+
+# Core LangChain
+langchain-core
+
+# UI & Environment
+streamlit
+python-dotenv
